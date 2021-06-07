@@ -282,7 +282,7 @@
         <hibernate.version>4.3.6.Final</hibernate.version>
         <hibernate-validator.version>5.1.2.Final</hibernate-validator.version>
         <slf4j.version>1.7.7</slf4j.version>
-        <logback.version>1.0.3</logback.version>
+        <logback.version>1.2.0</logback.version>
         <mysql.version>5.1.37</mysql.version>
         <commons.lang3.version>3.8.1</commons.lang3.version>
         <commons.collections4.version>4.3</commons.collections4.version>
