@@ -277,7 +277,7 @@
 
     <properties>
         <javaee.api.version>8.0</javaee.api.version>
-        <springframework.version>4.2.5.RELEASE</springframework.version>
+        <springframework.version>5.3.18</springframework.version>
         <springsecurity.version>4.0.4.RELEASE</springsecurity.version>
         <hibernate.version>4.3.6.Final</hibernate.version>
         <hibernate-validator.version>5.1.2.Final</hibernate-validator.version>
