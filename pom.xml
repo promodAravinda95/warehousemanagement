@@ -286,7 +286,7 @@
         <mysql.version>5.1.37</mysql.version>
         <commons.lang3.version>3.8.1</commons.lang3.version>
         <commons.collections4.version>4.3</commons.collections4.version>
-        <bcrypt.version>0.3m</bcrypt.version>
+        <bcrypt.version>0.4</bcrypt.version>
         <commons.beanutils.version>1.9.2</commons.beanutils.version>
         <commons.fileupload.version>1.4</commons.fileupload.version>
         <jackson.version>2.6.3</jackson.version>
